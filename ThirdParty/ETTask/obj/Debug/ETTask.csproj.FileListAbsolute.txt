@@ -1,0 +1,12 @@
+D:\GSEduPlat\LaoLi_With_IL\Bin\ETTask.deps.json
+D:\GSEduPlat\LaoLi_With_IL\Bin\ETTask.dll
+D:\GSEduPlat\LaoLi_With_IL\Bin\ETTask.pdb
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ETTask\obj\Debug\ETTask.csproj.AssemblyReference.cache
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ETTask\obj\Debug\ETTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ETTask\obj\Debug\ETTask.AssemblyInfoInputs.cache
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ETTask\obj\Debug\ETTask.AssemblyInfo.cs
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ETTask\obj\Debug\ETTask.csproj.CoreCompileInputs.cache
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ETTask\obj\Debug\ETTask.dll
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ETTask\obj\Debug\refint\ETTask.dll
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ETTask\obj\Debug\ETTask.pdb
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ETTask\obj\Debug\ref\ETTask.dll

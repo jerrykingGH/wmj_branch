@@ -1,0 +1,17 @@
+D:\GSEduPlat\LaoLi_With_IL\Bin\libRecastDll.dylib
+D:\GSEduPlat\LaoLi_With_IL\Bin\RecastDll.dll
+D:\GSEduPlat\LaoLi_With_IL\Bin\libkcp.dylib
+D:\GSEduPlat\LaoLi_With_IL\Bin\kcp.dll
+D:\GSEduPlat\LaoLi_With_IL\Bin\Server.Hotfix.deps.json
+D:\GSEduPlat\LaoLi_With_IL\Bin\Server.Hotfix.dll
+D:\GSEduPlat\LaoLi_With_IL\Bin\Server.Hotfix.pdb
+D:\GSEduPlat\LaoLi_With_IL\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.AssemblyReference.cache
+D:\GSEduPlat\LaoLi_With_IL\Server\Hotfix\obj\Debug\Server.Hotfix.GeneratedMSBuildEditorConfig.editorconfig
+D:\GSEduPlat\LaoLi_With_IL\Server\Hotfix\obj\Debug\Server.Hotfix.AssemblyInfoInputs.cache
+D:\GSEduPlat\LaoLi_With_IL\Server\Hotfix\obj\Debug\Server.Hotfix.AssemblyInfo.cs
+D:\GSEduPlat\LaoLi_With_IL\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CoreCompileInputs.cache
+D:\GSEduPlat\LaoLi_With_IL\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CopyComplete
+D:\GSEduPlat\LaoLi_With_IL\Server\Hotfix\obj\Debug\Server.Hotfix.dll
+D:\GSEduPlat\LaoLi_With_IL\Server\Hotfix\obj\Debug\refint\Server.Hotfix.dll
+D:\GSEduPlat\LaoLi_With_IL\Server\Hotfix\obj\Debug\Server.Hotfix.pdb
+D:\GSEduPlat\LaoLi_With_IL\Server\Hotfix\obj\Debug\ref\Server.Hotfix.dll

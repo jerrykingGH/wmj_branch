@@ -1,0 +1,17 @@
+D:\GSEduPlat\LaoLi_With_IL\Bin\net6.0\libRecastDll.dylib
+D:\GSEduPlat\LaoLi_With_IL\Bin\net6.0\RecastDll.dll
+D:\GSEduPlat\LaoLi_With_IL\Bin\net6.0\libkcp.dylib
+D:\GSEduPlat\LaoLi_With_IL\Bin\net6.0\kcp.dll
+D:\GSEduPlat\LaoLi_With_IL\Bin\net6.0\ShareLib.deps.json
+D:\GSEduPlat\LaoLi_With_IL\Bin\net6.0\ShareLib.dll
+D:\GSEduPlat\LaoLi_With_IL\Bin\net6.0\ShareLib.pdb
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ShareLib\obj\Debug\net6.0\ShareLib.csproj.AssemblyReference.cache
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ShareLib\obj\Debug\net6.0\ShareLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ShareLib\obj\Debug\net6.0\ShareLib.AssemblyInfoInputs.cache
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ShareLib\obj\Debug\net6.0\ShareLib.AssemblyInfo.cs
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ShareLib\obj\Debug\net6.0\ShareLib.csproj.CoreCompileInputs.cache
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ShareLib\obj\Debug\net6.0\ShareLib.csproj.CopyComplete
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ShareLib\obj\Debug\net6.0\ShareLib.dll
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ShareLib\obj\Debug\net6.0\refint\ShareLib.dll
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ShareLib\obj\Debug\net6.0\ShareLib.pdb
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\ShareLib\obj\Debug\net6.0\ref\ShareLib.dll

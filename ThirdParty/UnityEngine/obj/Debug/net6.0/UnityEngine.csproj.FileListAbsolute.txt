@@ -1,0 +1,12 @@
+D:\GSEduPlat\LaoLi_With_IL\Bin\net6.0\UnityEngine.deps.json
+D:\GSEduPlat\LaoLi_With_IL\Bin\net6.0\UnityEngine.dll
+D:\GSEduPlat\LaoLi_With_IL\Bin\net6.0\UnityEngine.pdb
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\UnityEngine\obj\Debug\net6.0\UnityEngine.csproj.AssemblyReference.cache
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\UnityEngine\obj\Debug\net6.0\UnityEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\UnityEngine\obj\Debug\net6.0\UnityEngine.AssemblyInfoInputs.cache
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\UnityEngine\obj\Debug\net6.0\UnityEngine.AssemblyInfo.cs
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\UnityEngine\obj\Debug\net6.0\UnityEngine.csproj.CoreCompileInputs.cache
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\UnityEngine\obj\Debug\net6.0\UnityEngine.dll
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\UnityEngine\obj\Debug\net6.0\refint\UnityEngine.dll
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\UnityEngine\obj\Debug\net6.0\UnityEngine.pdb
+D:\GSEduPlat\LaoLi_With_IL\ThirdParty\UnityEngine\obj\Debug\net6.0\ref\UnityEngine.dll
