@@ -1,0 +1,10 @@
+<Assets/Res/GSEduPlat/StartingScene/UIStarting.prefab|35a799e56758a5707246d4b82ca8e477.GS|Assets/Res/GSEduPlat/StartingScene/Sprite/BG_daodiyaocai.jpg|Assets/Res/GSEduPlat/StartingScene/Sprite/BG_yinyang.jpg|Assets/Res/GSEduPlat/StartingScene/Sprite/BG_zhengxie.jpg|Assets/Res/GSEduPlat/StartingScene/Anim/ProgressBackground.controller|Assets/Res/GSEduPlat/StartingScene/Sprite/BG_pangu.jpg|Assets/Res/GSEduPlat/StartingScene/Sprite/BG_wuqinxi.jpg|Assets/Res/GSEduPlat/StartingScene/Sprite/StartingSprite.png|Assets/Res/GSEduPlat/StartingScene/Anim/ProgressAnim.anim>
+<Assets/Res/GSEduPlat/StartingScene/Anim/ProgressAnim.anim|9b324a0783f9e3d0b525077ec3eb347a.GS>
+<Assets/Res/GSEduPlat/StartingScene/Anim/ProgressBackground.controller|6d5bc3f5918cff79c22dce2a156a2869.GS|Assets/Res/GSEduPlat/StartingScene/Anim/ProgressAnim.anim>
+<Assets/Res/GSEduPlat/StartingScene/Sprite/BG_daodiyaocai.jpg|da2c343d511ef39d16bcd98f0a38a7b2.GS>
+<Assets/Res/GSEduPlat/StartingScene/Sprite/BG_pangu.jpg|bb0ef1db76586940598b2667412bacce.GS>
+<Assets/Res/GSEduPlat/StartingScene/Sprite/BG_wuqinxi.jpg|d4e34f264191a48832af94a7874a576a.GS>
+<Assets/Res/GSEduPlat/StartingScene/Sprite/BG_yinyang.jpg|74a48c1a3c6d388ade5f88ee26107488.GS>
+<Assets/Res/GSEduPlat/StartingScene/Sprite/BG_zhengxie.jpg|30b9318a398f1c654283d06625abfe72.GS>
+<Assets/Res/GSEduPlat/StartingScene/Sprite/StartingSprite.png|f15626245f7b5bf27c885e6a06bb828b.GS>
+

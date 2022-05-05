@@ -1,0 +1,15 @@
+<Assets/Res/GSEduPlat/Movie/VideoPlayer.prefab|30709f26016ca633fcc1de7fa956b837.gs|Assets/Res/GSEduPlat/Movie/Anim/CoverVideoWithView.anim|Assets/Res/GSEduPlat/Movie/Anim/VideoPlayer_CoverBtnAnim.controller|Assets/Res/GSEduPlat/Movie/Anim/ControlerAnim.anim|Assets/Res/GSEduPlat/Movie/Anim/CoverVideoWithOutView.anim|Assets/Res/GSEduPlat/Movie/Sprite/PlayerUI.png|Assets/Res/GSEduPlat/Movie/Anim/Controler.controller|Assets/Res/GSEduPlat/Movie/Anim/Video Cover.controller|Assets/Res/GSEduPlat/Movie/Anim/VideoPlayer_CoverBtn.anim|Assets/Res/GSEduPlat/Movie/Anim/ControlerOut.anim|Assets/Res/GSEduPlat/Movie/Anim/DisplayVideoWithView.anim|Assets/Res/GSEduPlat/Movie/Anim/DisplayVideoWithOutView.anim|Assets/Res/GSEduPlat/Movie/Anim/ScreenButtonAnimation.anim|Assets/Res/GSEduPlat/Movie/Anim/ControlerIn.anim>
+<Assets/Res/GSEduPlat/Movie/Anim/Controler.controller|716d2287306227b3046247bb5afa6fad.gs|Assets/Res/GSEduPlat/Movie/Anim/ControlerAnim.anim|Assets/Res/GSEduPlat/Movie/Anim/ControlerOut.anim|Assets/Res/GSEduPlat/Movie/Anim/ControlerIn.anim>
+<Assets/Res/GSEduPlat/Movie/Anim/ControlerAnim.anim|4587264a9d9c34be36673af598dce51f.gs>
+<Assets/Res/GSEduPlat/Movie/Anim/ControlerIn.anim|0a10b6d9087556b7ba0f97e1fcfc936d.gs>
+<Assets/Res/GSEduPlat/Movie/Anim/ControlerOut.anim|ab6d051590576dd49084564835d538d5.gs>
+<Assets/Res/GSEduPlat/Movie/Anim/CoverVideoWithOutView.anim|aacb2e14c98826e9bb6ff5589cd205a2.gs>
+<Assets/Res/GSEduPlat/Movie/Anim/CoverVideoWithView.anim|d58bfa9ecbca78d6767deb739edd1b7b.gs>
+<Assets/Res/GSEduPlat/Movie/Anim/DisplayVideoWithOutView.anim|14c4b9fd1eedeff1de70a6527a1e7b08.gs>
+<Assets/Res/GSEduPlat/Movie/Anim/DisplayVideoWithView.anim|9f7d67540979ec36ee7be3797ed64970.gs>
+<Assets/Res/GSEduPlat/Movie/Anim/ScreenButtonAnimation.anim|afca4eedd645679f3471215fd90fd3e9.gs>
+<Assets/Res/GSEduPlat/Movie/Anim/Video Cover.controller|c1ffc6955516bdc07577e0f95478fafb.gs|Assets/Res/GSEduPlat/Movie/Anim/CoverVideoWithView.anim|Assets/Res/GSEduPlat/Movie/Anim/CoverVideoWithOutView.anim|Assets/Res/GSEduPlat/Movie/Anim/DisplayVideoWithView.anim|Assets/Res/GSEduPlat/Movie/Anim/DisplayVideoWithOutView.anim|Assets/Res/GSEduPlat/Movie/Anim/ScreenButtonAnimation.anim>
+<Assets/Res/GSEduPlat/Movie/Anim/VideoPlayer_CoverBtn.anim|07f7d4cf85b8b627e2b7cf183103f001.gs|Assets/Res/GSEduPlat/Movie/Sprite/PlayerUI.png>
+<Assets/Res/GSEduPlat/Movie/Anim/VideoPlayer_CoverBtnAnim.controller|a6e64a2c6233103c6e9c13817a104649.gs|Assets/Res/GSEduPlat/Movie/Sprite/PlayerUI.png|Assets/Res/GSEduPlat/Movie/Anim/VideoPlayer_CoverBtn.anim>
+<Assets/Res/GSEduPlat/Movie/Sprite/PlayerUI.png|a61bb1e6be42efc19954ac4a187135a7.gs>
+

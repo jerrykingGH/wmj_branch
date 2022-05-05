@@ -1,0 +1,3 @@
+<Assets/Res/GSEduPlat/MainPageScene/Thumbnails/Lesson_009/Lesson_009.png|c8e22abb0bb5860bdc94e339b81da220.gs>
+<Assets/Res/GSEduPlat/MainPageScene/Thumbnails/Lesson_009/SectionShots.prefab|695623b15d60acb7297d62c590d6f742.gs|Assets/Res/GSEduPlat/MainPageScene/Thumbnails/Lesson_009/Lesson_009.png>
+

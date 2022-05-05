@@ -1,0 +1,27 @@
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Circle.anim|b451ff63278796912662df675eabc4e9.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Circle.controller|15ebbcf85f25176569aaea270dfb1b36.gs|Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/CircleBG.anim>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Circle1.anim|36c44c5864c20ce29814d4484cc82a0a.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/CircleBG.anim|b20214486d3f03e5c23016cb0aedee2d.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/CircleLine 1.controller|0a9db063f2854b21902bb83e69b5702a.gs|Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/CircleMove1.anim>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/CircleLine.controller|f7e0b4b93aa9076c7bcbae56a043bf53.gs|Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/CircleMove0.anim>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/CircleMove0.anim|67efaa67b8a40f5ae77af42be8557bac.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/CircleMove1.anim|5d5665635bd8c7861aa23cb20f4e31af.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Cover 1.controller|200172b38889d59b22f95288a60673e6.gs|Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Circle1.anim>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Cover.controller|544443e524c97d800bd7477d1c053c3e.gs|Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Circle.anim>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line.anim|769aa7352473e3fe18f14c93fd69ddf4.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line.controller|02f725335840c528aad996e6d7ffb47a.gs|Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line.anim>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line0.anim|c27264c48e76cad6a081ae49cb18e365.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line0.controller|bc59b393b9f81affbf42d484e6541c22.gs|Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line0.anim>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line1.anim|32db66df4c8b8e8f175e2c8dae449aee.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line1.controller|66b19d229bc6adf3a46f5919e58d12e9.gs|Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line1.anim>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line2.anim|cb095264cb63c0d910917036d3ac50d7.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line2.controller|143a1417ea0b5152b434586c99ce8c85.gs|Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line2.anim>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line3.anim|290ec41e38427e9cbcd20a46eea9e872.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line3.controller|77bf07dfd337b4ebf691e4ce8e1724dc.gs|Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line3.anim>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line4.anim|d9fc5033948152643563fb00c6b3821d.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line4.controller|4abd333e4aaec028ddda1332a2aa16ee.gs|Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Anim/Line4.anim>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Btn/Btn.prefab|7093011dd4456f1276659e090bf3971a.gs|Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Btn/Lesson_XXX_0_Btn.png|Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Sprite/MainPageItems2.png>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Btn/Lesson_XXX_0_Btn.png|7d0aa4bbe9ff226d50c24ee8cde2266b.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Sprite/MainPageItems.png|2e57f64431fd838460372c695076646e.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_XXX/Sprite/MainPageItems2.png|8b08a9ae9508720860d41facce411066.gs>
+

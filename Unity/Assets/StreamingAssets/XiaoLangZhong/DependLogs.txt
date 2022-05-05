@@ -1,0 +1,8 @@
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_001/Lesson_001_3/Anim/Xiaolangzhong_Anmo_yongquan1_Controller.controller|cee22e458a558e1b28c07d68386aa66b.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_001/Lesson_001_3/Sprite/yongquan_2.png|1fa47324f88bd60315d45f19be2564d6.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_001/Lesson_001_3/Anim/Xiaolangzhong_Anmo_yongquan_1.anim|5f0f83493cb3b643b39e928d4114c8af.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_001/Lesson_001_3/Anim/Xiaolangzhong_Anmo_yongquan2_Controller.controller|8ed9aef5023a7ad0547e3873022caf7b.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_001/Lesson_001_3/Sprite/yongquan_1.png|481d5ace57c05705870be2f1bc28ad1b.gs>
+<Assets/Res/GSEduPlat/LessonsScene/Lesson_001/Lesson_001_3/Anim/Xiaolangzhong_Anmo_yongquan_2.anim|ff2c0848fa444e31c3e99596e534903a.gs>
+<Assets/Res/GSEduPlat/Common/Sprite/CommonShape.png|df23918c31f1ffbc1db9ac11602c26ba.gs>
+
