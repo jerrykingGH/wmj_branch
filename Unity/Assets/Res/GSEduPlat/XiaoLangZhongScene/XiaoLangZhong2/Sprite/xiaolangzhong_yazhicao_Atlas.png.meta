@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: a55a34e11a3a6a34db201d149a77b69a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4891457874696525815
+    second: dianyuan1
+  - first:
+      213: -2178960455967661013
+    second: shixinyuan1
+  - first:
+      213: 2511021651046998889
+    second: xiaoyuan1
+  - first:
+      213: 3883620351421148518
+    second: xiaoyuan2
+  - first:
+      213: -5917709884133176954
+    second: xuxianyuan1
+  - first:
+      213: 5244229702799772413
+    second: yaunhu2
+  - first:
+      213: 5492439674650801927
+    second: yuan1
+  - first:
+      213: 6824176587915486217
+    second: yuan2
+  - first:
+      213: 8477766006715281105
+    second: yuan3
+  - first:
+      213: 3086622429577992367
+    second: yuanhu22
+  - first:
+      213: -7004099205208828976
+    second: "\u4E91"
+  - first:
+      213: 8232107142162882545
+    second: "\u4E911"
+  - first:
+      213: 5763259831575826621
+    second: "\u77E9\u5F62 8"
+  - first:
+      213: 7458465863288676405
+    second: "\u77E9\u5F62 9 \u62F7\u8D1D"
+  - first:
+      213: 8340390392313187907
+    second: "\u77E9\u5F62 9"
+  - first:
+      213: 3534013361422478395
+    second: "\u80CC\u666F"
+  - first:
+      213: 1320704288248466382
+    second: "\u8FD4\u56DE"
+  - first:
+      213: -7402176012220084819
+    second: yachic
+  - first:
+      213: 1341853684203588792
+    second: "\u692D\u5706 343"
+  - first:
+      213: 5826541842279742377
+    second: "\u9E2D\u8DD6\u8349\u690D\u682A"
+  - first:
+      213: -4937789777382736222
+    second: "\u7EC4 1"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dianyuan1
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1709
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7d21f5503f1e340800000000000000
+      internalID: 4891457874696525815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shixinyuan1
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1810
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24ac6a8207c2c1e0800000000000000
+      internalID: -2178960455967661013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xiaoyuan1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 976
+        width: 465
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963a8fd33e0f8d220800000000000000
+      internalID: 2511021651046998889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xiaoyuan2
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 139
+        width: 465
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d6fe0222465e530800000000000000
+      internalID: 3883620351421148518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xuxianyuan1
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1922
+        width: 124
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6898c68b63210eda0800000000000000
+      internalID: -5917709884133176954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yachic
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 143
+        width: 465
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad44b2a220364990800000000000000
+      internalID: -7402176012220084819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yaunhu2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 622
+        width: 312
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaceeb212f37c840800000000000000
+      internalID: 5244229702799772413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuan1
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 610
+        width: 469
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707b2dda8c0193c40800000000000000
+      internalID: 5492439674650801927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuan2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 973
+        width: 469
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9046d3f537854be50800000000000000
+      internalID: 6824176587915486217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuan3
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1747
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de6527144317a570800000000000000
+      internalID: 8477766006715281105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuanhu22
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 43
+        width: 488
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8dfbefeb2e5da20800000000000000
+      internalID: 3086622429577992367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u4E91"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 820
+        width: 331
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d39ee5d1e07cce90800000000000000
+      internalID: -7004099205208828976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u4E911"
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 60
+        width: 336
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff139984d15e3270800000000000000
+      internalID: 8232107142162882545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u692D\u5706 343"
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1084
+        width: 487
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc018bf0d83f9210800000000000000
+      internalID: 1341853684203588792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u77E9\u5F62 8"
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1912
+        width: 142
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0da5128463bff40800000000000000
+      internalID: 5763259831575826621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u77E9\u5F62 9 \u62F7\u8D1D"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 968
+        width: 488
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530e2be9f2bc18760800000000000000
+      internalID: 7458465863288676405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u77E9\u5F62 9"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 458
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e88ed5fd40fb370800000000000000
+      internalID: 8340390392313187907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7EC4 1"
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1800
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aefb87eb52797bb0800000000000000
+      internalID: -4937789777382736222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u80CC\u666F"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1447
+        width: 1067
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c221f9d665b0130800000000000000
+      internalID: 3534013361422478395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u8FD4\u56DE"
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1718
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb82628d85145210800000000000000
+      internalID: 1320704288248466382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E2D\u8DD6\u8349\u690D\u682A"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1573
+        width: 687
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abb80a6fe80cd050800000000000000
+      internalID: 5826541842279742377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: xiaolangzhong_caoyao
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3820737723266523664
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3820737723266523679}
+  - component: {fileID: 3820737723266523678}
+  m_Layer: 0
+  m_Name: SectionShots
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3820737723266523679
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3820737723266523664}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3820737723266523678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3820737723266523664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - key: Lesson_004_0
+    gameObject: {fileID: -7705174241702838191, guid: 619ee9cb7ff3b4745ba8fb4a8adda55a,
+      type: 3}
+  - key: Lesson_004_1
+    gameObject: {fileID: 6011216643168012928, guid: 619ee9cb7ff3b4745ba8fb4a8adda55a,
+      type: 3}
+  - key: Lesson_004_2
+    gameObject: {fileID: 1044660618389728881, guid: 619ee9cb7ff3b4745ba8fb4a8adda55a,
+      type: 3}
+  - key: Lesson_004_3
+    gameObject: {fileID: -7950148639870821120, guid: 619ee9cb7ff3b4745ba8fb4a8adda55a,
+      type: 3}
+  - key: Lesson_004_4
+    gameObject: {fileID: 375760853124573326, guid: 619ee9cb7ff3b4745ba8fb4a8adda55a,
+      type: 3}
+  - key: Lesson_004_5
+    gameObject: {fileID: -903230541398823723, guid: 619ee9cb7ff3b4745ba8fb4a8adda55a,
+      type: 3}
