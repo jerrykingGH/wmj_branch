@@ -51,6 +51,7 @@ namespace BM
                     AssetLogHelper.LogError("没有找到 " + bundlePackageName + " Bundle的FileLogs\n" + filePath);
                     return;
                 }
+                //
                 string fileLogs = webRequest.downloadHandler.text;
                 Regex reg = new Regex(@"\<(.+?)>");
                 MatchCollection matchCollection = reg.Matches(fileLogs);

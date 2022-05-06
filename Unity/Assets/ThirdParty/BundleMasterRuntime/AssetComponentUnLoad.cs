@@ -24,6 +24,7 @@ namespace BM
         /// <summary>
         /// 通过路径卸载(场景资源不可以通过路径卸载)
         /// </summary>
+        /// 
         public static void UnLoadByPath(string assetPath, string bundlePackageName = null)
         {
             if (AssetComponentConfig.AssetLoadMode == AssetLoadMode.Develop)

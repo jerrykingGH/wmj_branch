@@ -33,7 +33,7 @@ namespace BM
         /// 加载出来的资源
         /// </summary>
         public UnityEngine.Object Asset = null;
-        
+        //
         /// <summary>
         /// File文件AssetBundle的引用
         /// </summary>
